@@ -1,4 +1,4 @@
-# sample-photo-albums
+# hi-lo-sample
 
 > A Vue.js project
 
